@@ -182,8 +182,9 @@ install_x-ui() {
     echo -e "x-ui install      - 安装 x-ui 面板"
     echo -e "x-ui uninstall    - 卸载 x-ui 面板"
     echo -e "x-ui geo          - 更新 geo  数据"
-    echo -e "交流群：853645907  -   作者：1742500059，
-             优选服务器推荐：www.nxyidc.com"
+    echo -e "----------------------------------------------"
+    echo -e "交流Q群：745953525  -  唯一作者：1742500059，
+    优选服务器推荐：www.nxyidc.com"
     echo -e "----------------------------------------------"
 }
 
